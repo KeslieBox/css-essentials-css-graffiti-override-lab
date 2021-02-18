@@ -1,1 +1,30 @@
 /* write your override styles here */
+
+
+#wall .tag-1 {
+    display: none;
+    height: unset;
+    position: unset;
+  }
+
+#tag-2 {
+    display: none;
+    position: unset;
+    height: unset;
+   
+}
+
+#tag-3 {
+    position: unset;
+    height: 0;
+    width: 0;
+}
+
+.parent {
+    display: none;
+}
+
+
+
+
+
